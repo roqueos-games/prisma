@@ -1,0 +1,22 @@
+{
+  "tagline": "Emboîtez les blocs qui tombent et complétez les lignes.",
+  "tapToPlay": "Touchez pour jouer",
+  "score": "Score",
+  "lines": "Lignes",
+  "level": "Niveau",
+  "hold": "Réserve",
+  "next": "Suivants",
+  "over": "Partie terminée",
+  "newRecord": "Nouveau record !",
+  "retry": "Rejouer",
+  "paused": "En pause",
+  "tapToResume": "Touchez pour reprendre",
+  "best": "Record",
+  "left": "Gauche",
+  "right": "Droite",
+  "rotate": "Pivoter",
+  "soft": "Descendre",
+  "drop": "Lâcher",
+  "soundOn": "Son activé",
+  "soundOff": "Son désactivé"
+}

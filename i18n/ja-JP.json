@@ -1,0 +1,22 @@
+{
+  "tagline": "落ちてくるブロックを組み合わせてラインを消そう。",
+  "tapToPlay": "タップでプレイ",
+  "score": "スコア",
+  "lines": "ライン",
+  "level": "レベル",
+  "hold": "ホールド",
+  "next": "ネクスト",
+  "over": "ゲームオーバー",
+  "newRecord": "新記録！",
+  "retry": "もう一度",
+  "paused": "一時停止",
+  "tapToResume": "タップで再開",
+  "best": "ベスト",
+  "left": "左",
+  "right": "右",
+  "rotate": "回転",
+  "soft": "ソフトドロップ",
+  "drop": "ハードドロップ",
+  "soundOn": "サウンドON",
+  "soundOff": "サウンドOFF"
+}

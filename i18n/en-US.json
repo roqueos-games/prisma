@@ -1,0 +1,22 @@
+{
+  "tagline": "Fit the falling blocks and clear the lines.",
+  "tapToPlay": "Tap to play",
+  "score": "Score",
+  "lines": "Lines",
+  "level": "Level",
+  "hold": "Hold",
+  "next": "Next",
+  "over": "Game over",
+  "newRecord": "New record!",
+  "retry": "Play again",
+  "paused": "Paused",
+  "tapToResume": "Tap to resume",
+  "best": "Best",
+  "left": "Left",
+  "right": "Right",
+  "rotate": "Rotate",
+  "soft": "Soft drop",
+  "drop": "Hard drop",
+  "soundOn": "Sound on",
+  "soundOff": "Sound off"
+}

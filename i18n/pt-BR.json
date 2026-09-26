@@ -1,0 +1,22 @@
+{
+  "tagline": "Encaixe as peças que caem e limpe as linhas.",
+  "tapToPlay": "Toque para jogar",
+  "score": "Pontos",
+  "lines": "Linhas",
+  "level": "Nível",
+  "hold": "Guardar",
+  "next": "Próximas",
+  "over": "Fim de jogo",
+  "newRecord": "Novo recorde!",
+  "retry": "Jogar de novo",
+  "paused": "Pausado",
+  "tapToResume": "Toque para continuar",
+  "best": "Recorde",
+  "left": "Esquerda",
+  "right": "Direita",
+  "rotate": "Girar",
+  "soft": "Descer",
+  "drop": "Soltar",
+  "soundOn": "Som ligado",
+  "soundOff": "Som desligado"
+}

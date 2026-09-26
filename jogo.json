@@ -1,0 +1,58 @@
+{
+  "id": "prisma",
+  "slug": "prisma",
+  "versaoDoContrato": 1,
+  "nome": {
+    "pt-BR": "PRISMA",
+    "en-US": "PRISMA",
+    "es-ES": "PRISMA",
+    "fr-FR": "PRISMA",
+    "de-DE": "PRISMA",
+    "ja-JP": "PRISMA",
+    "zh-CN": "PRISMA",
+    "hi-IN": "PRISMA",
+    "ru-RU": "PRISMA",
+    "ar-AR": "PRISMA"
+  },
+  "descricao": {
+    "pt-BR": "Encaixe as peças 3D que caem e limpe linhas para pontuar.",
+    "en-US": "Fit the falling 3D blocks and clear lines to score.",
+    "es-ES": "Encaja las piezas 3D que caen y completa líneas para puntuar.",
+    "fr-FR": "Emboîte les blocs 3D qui tombent et complète des lignes pour marquer.",
+    "de-DE": "Füge die fallenden 3D-Blöcke ein und räume Reihen ab, um zu punkten.",
+    "ja-JP": "落ちてくる3Dブロックを組み合わせてラインを消し、得点しよう。",
+    "zh-CN": "拼合下落的 3D 方块，消除整行来得分，下落会越来越快。",
+    "hi-IN": "गिरते हुए 3D ब्लॉक जमाएँ और पंक्तियाँ साफ करके स्कोर करें।",
+    "ru-RU": "Складывайте падающие 3D-блоки и очищайте линии, чтобы набирать очки.",
+    "ar-AR": "ركّب القطع ثلاثية الأبعاد المتساقطة وامسح الصفوف لتسجّل النقاط."
+  },
+  "seo": {
+    "pt-BR": {
+      "resumo": "Puzzle 3D de peças que caem, grátis no navegador: encaixe, limpe linhas e segure o ritmo enquanto acelera.",
+      "sobre": "Prisma leva o encaixe de peças para três dimensões: a peça gira nos três eixos e o tabuleiro tem profundidade, então a leitura da próxima jogada muda. Linhas completas somem e a queda acelera.",
+      "comoJogar": "Setas movem, espaço derruba, as teclas de rotação giram nos três eixos."
+    },
+    "en-US": {
+      "resumo": "Free 3D falling-block puzzle in your browser: fit the pieces, clear lines and hold the rhythm as it speeds up.",
+      "sobre": "Prisma takes block fitting into three dimensions: pieces rotate on all three axes and the board has depth, so reading the next move changes. Full lines clear and the fall accelerates.",
+      "comoJogar": "Arrows move, space drops, rotation keys turn on all three axes."
+    }
+  },
+  "etiquetas": ["Puzzle", "3d", "Arcade"],
+  "capa": "public/capa.jpg",
+  "icone": "public/icone.svg",
+  "brilho": "rgba(59, 130, 246, 0.5)",
+  "janela": {
+    "largura": 620,
+    "altura": 760,
+    "minLargura": 420,
+    "minAltura": 560
+  },
+  "aceitaConvite": false,
+  "entraNoPodio": true,
+  "recorde": {
+    "chave": "best",
+    "maiorEMelhor": true
+  },
+  "capacidades": []
+}

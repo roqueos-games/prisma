@@ -1,0 +1,22 @@
+{
+  "tagline": "Encaja las piezas que caen y completa las líneas.",
+  "tapToPlay": "Toca para jugar",
+  "score": "Puntos",
+  "lines": "Líneas",
+  "level": "Nivel",
+  "hold": "Reservar",
+  "next": "Siguientes",
+  "over": "Fin de la partida",
+  "newRecord": "¡Nuevo récord!",
+  "retry": "Jugar de nuevo",
+  "paused": "En pausa",
+  "tapToResume": "Toca para continuar",
+  "best": "Récord",
+  "left": "Izquierda",
+  "right": "Derecha",
+  "rotate": "Girar",
+  "soft": "Bajar",
+  "drop": "Soltar",
+  "soundOn": "Sonido activado",
+  "soundOff": "Sonido desactivado"
+}

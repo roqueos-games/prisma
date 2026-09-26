@@ -1,0 +1,22 @@
+{
+  "tagline": "Füge die fallenden Blöcke ein und räume die Reihen ab.",
+  "tapToPlay": "Zum Spielen tippen",
+  "score": "Punkte",
+  "lines": "Reihen",
+  "level": "Level",
+  "hold": "Halten",
+  "next": "Nächste",
+  "over": "Spiel vorbei",
+  "newRecord": "Neuer Rekord!",
+  "retry": "Nochmal spielen",
+  "paused": "Pausiert",
+  "tapToResume": "Zum Fortsetzen tippen",
+  "best": "Rekord",
+  "left": "Links",
+  "right": "Rechts",
+  "rotate": "Drehen",
+  "soft": "Absenken",
+  "drop": "Fallen lassen",
+  "soundOn": "Ton an",
+  "soundOff": "Ton aus"
+}

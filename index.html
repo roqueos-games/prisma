@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Prisma · desenvolvimento</title>
+    <style>
+      html,
+      body,
+      #jogo {
+        margin: 0;
+        width: 100%;
+        height: 100%;
+        background: #080b16;
+      }
+      /* A fonte que o RoqueOS dá ao corpo da página. Dentro dele o jogo herda essa;
+         sozinho, sem ela, o HUD e o botão caem na serifada do navegador. A altura de
+         linha, o corpo 14px e a suavização são os do Quasar no <body> do RoqueOS: sem
+         eles o logo e a frase da tela inicial sobem uns 20px em relação ao RoqueOS
+         (medido no print de 25/09/2026). */
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto,
+          sans-serif;
+        line-height: 1.5;
+        font-size: 14px;
+        -webkit-font-smoothing: antialiased;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="jogo"></div>
+    <script type="module" src="/dev/main.js"></script>
+  </body>
+</html>
